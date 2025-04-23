@@ -45,22 +45,6 @@
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Achievements
-
-- 🥇 **ICPC Asia West Continent Finalist 2023**
-- 🏆 **15th** place in ICPC Dhaka Regional 2023
-- 🧩 Solved **2500+** problems across various online judges
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mainul3195&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mainul3195&theme=radical" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mainul3195&theme=radical&row=1&column=6" alt="trophy" />
-</div>
 
 <!-- Snake animation -->
 <picture>
