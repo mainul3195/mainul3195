@@ -8,22 +8,13 @@
 
 I'm a Computer Science student at **Shahjalal University of Science and Technology** with a passion for competitive programming, problem-solving, and building web applications. I'm an **Expert** rated programmer on Codeforces and an **ICPC Asia West Continent Finalist**.
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 60%;">
-    I'm a Computer Science student at <b>Shahjalal University of Science and Technology</b> with a passion for competitive programming, problem-solving, and building web applications. I'm an <b>Expert</b> rated programmer on Codeforces and an <b>ICPC Asia West Continent Finalist</b>.
-
-    - 🏆 <b>Competitive Programming</b> is my passion
-    - 💻 Full Stack Development with <b>MERN</b> stack
-    - 🔭 Currently working on improving algorithmic skills
-    - 🌱 Exploring <b>Neural Temporal Point Process</b> for ECG-based mortality prediction
-    - 🎯 Rated <b>Expert (max 1815)</b> on Codeforces
-  </div>
-  <div style="flex: 40%;">
-    <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  </div>
-</div>
+- 🏆 **Competitive Programming** is my passion
+- 💻 Full Stack Development with **MERN** stack
+- 🔭 Currently working on improving algorithmic skills
+- 🌱 Exploring **Neural Temporal Point Process** for ECG-based mortality prediction
+- 🎯 Rated **Expert (max 1815)** on Codeforces
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> Languages & Tools
 
