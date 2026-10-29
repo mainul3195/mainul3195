@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Mainul Hasan Mohsin — Lecturer, CSE, SUST. AI security research.">
+<style>
+  .sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif} .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+  .flow{stroke-dasharray:4 10;animation:flow 2.4s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-28}}
+  .sweep{transform-origin:1010px 178px;animation:spin 6s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .covert{stroke-dasharray:3 6;animation:covert 6s linear infinite, flow 1.2s linear infinite}
+  @keyframes covert{0%,70%{opacity:.12}75%{opacity:1}88%{opacity:1}100%{opacity:.12}}
+  .flag{opacity:0;animation:flag 6s linear infinite}
+  @keyframes flag{0%,72%{opacity:0}75%,90%{opacity:1}100%{opacity:0}}
+  .calm{animation:calm 6s linear infinite}
+  @keyframes calm{0%,72%{opacity:1}75%,90%{opacity:0}100%{opacity:1}}
+  .pulse{transform-origin:86px 74px;animation:pulse 2s ease-out infinite}
+  @keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.6);opacity:0}}
+  .cursor{animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .line{animation:show 12s linear infinite}
+  @keyframes show{0%,31%{opacity:1}33.3%,100%{opacity:0}}
+  .type0{animation:type0 12s linear infinite}
+  @keyframes type0{0%,3%{transform:translateX(0);animation-timing-function:steps(47,end)}17%,100%{transform:translateX(498.2px)}}
+  .type1{animation:type1 12s linear infinite}
+  @keyframes type1{0%,3%{transform:translateX(0);animation-timing-function:steps(47,end)}17%,100%{transform:translateX(498.2px)}}
+  .type2{animation:type2 12s linear infinite}
+  @keyframes type2{0%,3%{transform:translateX(0);animation-timing-function:steps(49,end)}17%,100%{transform:translateX(519.4px)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#E3E8EE"/></pattern>
+  <radialGradient id="gA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 40) scale(520 320)">
+    <stop stop-color="#6D4AFF" stop-opacity="0.1"/><stop offset="1" stop-color="#6D4AFF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="gB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 178) scale(330 260)">
+    <stop stop-color="#0891B2" stop-opacity="0.08"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/></radialGradient>
+  <linearGradient id="rule" x1="0" x2="1"><stop stop-color="#6D4AFF"/><stop offset="1" stop-color="#0891B2"/></linearGradient>
+  <linearGradient id="beam" gradientUnits="userSpaceOnUse" x1="0" y1="68" x2="0" y2="178">
+    <stop stop-color="#0891B2" stop-opacity="0"/><stop offset="1" stop-color="#0891B2" stop-opacity=".28"/></linearGradient>
+  <clipPath id="card"><rect width="1280" height="360" rx="22"/></clipPath>
+  <clipPath id="termclip"><rect x="72" y="244" width="624" height="58" rx="10"/></clipPath>
+  <linearGradient id="fadeR" x1="0" x2="1"><stop offset=".55" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <mask id="dotmask"><rect width="1280" height="360" fill="url(#fadeR)"/></mask>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1280" height="360" fill="#FFFFFF"/>
+<rect width="1280" height="360" fill="url(#dots)" opacity=".9"/>
+<rect width="1280" height="360" fill="url(#gA)"/><rect width="1280" height="360" fill="url(#gB)"/>
+<rect y="357" width="1280" height="3" fill="url(#rule)"/>
+</g>
+<rect x=".5" y=".5" width="1279" height="359" rx="21.5" fill="none" stroke="#D0D7DE"/>
+<g class="mono" font-size="15" letter-spacing="2.2"><rect x="72" y="58" width="252" height="32" rx="16" fill="#6D4AFF" fill-opacity=".10" stroke="#6D4AFF" stroke-opacity=".45"/><circle class="pulse" cx="86" cy="74" r="4" fill="#6D4AFF"/><circle cx="86" cy="74" r="4" fill="#6D4AFF"/><text x="100" y="79" fill="#6D4AFF" font-weight="600">AI SECURITY RESEARCH</text></g>
+<text class="sans" x="70" y="160" font-size="56" font-weight="700" letter-spacing="-1.2" fill="#1F2328">Mainul Hasan Mohsin</text>
+<text class="sans" x="72" y="203" font-size="21" fill="#59636E">Lecturer, Computer Science &amp; Engineering · <tspan fill="#1F2328" font-weight="600">SUST</tspan></text>
+<rect x="72" y="244" width="624" height="58" rx="10" fill="#F6F8FA" stroke="#D0D7DE"/>
+<g class="mono" font-size="18" clip-path="url(#termclip)">
+<text x="94" y="283" fill="#0891B2" font-weight="700">❯</text>
+<g class="line" style="animation-delay:0s"><text x="120" y="283" fill="#1F2328" textLength="498.2" lengthAdjust="spacing">detect --agents 6 --covert-collusion --fpr 0.01</text><g class="type0" style="animation-delay:0s"><rect x="120" y="264" width="538" height="26" fill="#F6F8FA"/><rect class="cursor" x="121" y="266" width="10" height="22" rx="1.5" fill="#0891B2" fill-opacity=".85"/></g></g>
+<g class="line" style="animation-delay:-8s"><text x="120" y="283" fill="#1F2328" textLength="498.2" lengthAdjust="spacing">finetune llama-3-8b --qlora &amp;&amp; trace --backdoor</text><g class="type1" style="animation-delay:-8s"><rect x="120" y="264" width="538" height="26" fill="#F6F8FA"/><rect class="cursor" x="121" y="266" width="10" height="22" rx="1.5" fill="#0891B2" fill-opacity=".85"/></g></g>
+<g class="line" style="animation-delay:-4s"><text x="120" y="283" fill="#1F2328" textLength="519.4" lengthAdjust="spacing">lecture --dept cse --uni sust --topic ai-security</text><g class="type2" style="animation-delay:-4s"><rect x="120" y="264" width="559" height="26" fill="#F6F8FA"/><rect class="cursor" x="121" y="266" width="10" height="22" rx="1.5" fill="#0891B2" fill-opacity=".85"/></g></g>
+</g>
+<g>
+<line x1="1010" y1="178" x2="1010.0" y2="56.0" stroke="#C9D1D9" stroke-width="1" stroke-dasharray="2 5"/>
+<line x1="1010" y1="178" x2="1115.7" y2="117.0" stroke="#C9D1D9" stroke-width="1" stroke-dasharray="2 5"/>
+<line x1="1010" y1="178" x2="1115.7" y2="239.0" stroke="#C9D1D9" stroke-width="1" stroke-dasharray="2 5"/>
+<line x1="1010" y1="178" x2="1010.0" y2="300.0" stroke="#C9D1D9" stroke-width="1" stroke-dasharray="2 5"/>
+<line x1="1010" y1="178" x2="904.3" y2="239.0" stroke="#C9D1D9" stroke-width="1" stroke-dasharray="2 5"/>
+<line x1="1010" y1="178" x2="904.3" y2="117.0" stroke="#C9D1D9" stroke-width="1" stroke-dasharray="2 5"/>
+<line x1="1010.0" y1="56.0" x2="1115.7" y2="117.0" stroke="#C9D1D9" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:0.0s" x1="1010.0" y1="56.0" x2="1115.7" y2="117.0" stroke="#0891B2" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+<line x1="1115.7" y1="117.0" x2="1115.7" y2="239.0" stroke="#C9D1D9" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:-0.4s" x1="1115.7" y1="117.0" x2="1115.7" y2="239.0" stroke="#0891B2" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+<line x1="1115.7" y1="239.0" x2="1010.0" y2="300.0" stroke="#C9D1D9" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:-0.8s" x1="1115.7" y1="239.0" x2="1010.0" y2="300.0" stroke="#0891B2" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+<line x1="1010.0" y1="300.0" x2="904.3" y2="239.0" stroke="#C9D1D9" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:-1.2s" x1="1010.0" y1="300.0" x2="904.3" y2="239.0" stroke="#0891B2" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+<line x1="904.3" y1="239.0" x2="904.3" y2="117.0" stroke="#C9D1D9" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:-1.6s" x1="904.3" y1="239.0" x2="904.3" y2="117.0" stroke="#0891B2" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+<line x1="904.3" y1="117.0" x2="1010.0" y2="56.0" stroke="#C9D1D9" stroke-width="1.5"/>
+<line class="flow" style="animation-delay:-2.0s" x1="904.3" y1="117.0" x2="1010.0" y2="56.0" stroke="#0891B2" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
+<g class="sweep"><path d="M1010 178 L1168.0 178.0 A158 158 0 0 0 1127.4 72.3 Z" fill="url(#beam)"/><line x1="1010" y1="178" x2="1168.0" y2="178.0" stroke="#0891B2" stroke-opacity=".55" stroke-width="1.5"/></g>
+<path class="covert" d="M904.3 117.0 Q1010 158 1115.7 117.0" fill="none" stroke="#E11D48" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="1010.0" cy="56.0" r="19" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".75" stroke-width="1.5"/>
+<text class="mono" x="1010.0" y="61.0" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">A1</text>
+<circle cx="1115.7" cy="117.0" r="19" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".75" stroke-width="1.5"/>
+<circle class="flag" cx="1115.7" cy="117.0" r="19" fill="#E11D48" fill-opacity=".14" stroke="#E11D48" stroke-width="2.2"/>
+<circle class="flag" cx="1115.7" cy="117.0" r="27" fill="none" stroke="#E11D48" stroke-opacity=".45" stroke-width="1.2"/>
+<text class="mono" x="1115.7" y="122.0" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">A2</text>
+<circle cx="1115.7" cy="239.0" r="19" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".75" stroke-width="1.5"/>
+<text class="mono" x="1115.7" y="244.0" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">A3</text>
+<circle cx="1010.0" cy="300.0" r="19" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".75" stroke-width="1.5"/>
+<text class="mono" x="1010.0" y="305.0" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">A4</text>
+<circle cx="904.3" cy="239.0" r="19" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".75" stroke-width="1.5"/>
+<text class="mono" x="904.3" y="244.0" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">A5</text>
+<circle cx="904.3" cy="117.0" r="19" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".75" stroke-width="1.5"/>
+<circle class="flag" cx="904.3" cy="117.0" r="19" fill="#E11D48" fill-opacity=".14" stroke="#E11D48" stroke-width="2.2"/>
+<circle class="flag" cx="904.3" cy="117.0" r="27" fill="none" stroke="#E11D48" stroke-opacity=".45" stroke-width="1.2"/>
+<text class="mono" x="904.3" y="122.0" font-size="14" font-weight="600" text-anchor="middle" fill="#1F2328">A6</text>
+<g transform="translate(1010 178) scale(1.15)"><path d="M0 -26 L21 -18 V-2 C21 13 11 22 0 27 C-11 22 -21 13 -21 -2 V-18 Z" fill="#FFFFFF" stroke="#6D4AFF" stroke-width="2"/><path class="calm" d="M-8 0 L-2 6 L9 -6" fill="none" stroke="#6D4AFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/><g class="flag"><path d="M0 -11 V3" stroke="#E11D48" stroke-width="2.8" stroke-linecap="round"/><circle cx="0" cy="10" r="1.8" fill="#E11D48"/></g></g>
+<g class="mono" font-size="15" text-anchor="end"><text class="calm" x="1218" y="340" fill="#59636E">monitoring 6 agents · FPR ≤ 1%</text><text class="flag" x="1218" y="340" fill="#E11D48" font-weight="600">▲ CUSUM alarm · coalition {A2, A6}</text></g>
+</g></svg>
