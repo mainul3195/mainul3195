@@ -1,58 +1,112 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Mainul Hasan!
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6F36D1&center=true&vCenter=true&random=false&width=500&height=70&lines=Computer+Science+Student;Competitive+Programmer;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-<div>
-  <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
-  I'm a Computer Science student at **SUST** with a passion for competitive programming and web development. I'm an **Expert** rated programmer on Codeforces and an **ICPC Asia West Continent Finalist**.
-
-  - 🏆 Competitive Programming Enthusiast
-  - 💻 MERN Stack Developer
-  - 🎯 Codeforces: Expert (1815)
-</div>
-
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> Languages & Tools
-
-<p align="center">
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-</p>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/mainul-hasan-58289a212">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mainul3195@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/mainul3195">
-    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=Github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://mainul3195.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-
-<!-- Snake animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mainul3195/mainul3195/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mainul3195/mainul3195/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mainul3195/mainul3195/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Mainul Hasan Mohsin — Lecturer, CSE, SUST · AI Security Research" src="./assets/header-dark.svg" width="100%">
 </picture>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <a href="https://mainul3195.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-mainul3195.vercel.app-8B6CFF?style=flat-square&labelColor=0B0F17"></a>
+  <a href="https://linkedin.com/in/mainul-hasan-58289a212"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-22D3EE?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0F17"></a>
+  <a href="mailto:mainul3195@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-mainul3195@gmail.com-8B6CFF?style=flat-square&logo=gmail&logoColor=white&labelColor=0B0F17"></a>
+  <a href="https://codeforces.com/profile/ammelid"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Expert%20·%20max%201815-22D3EE?style=flat-square&logo=codeforces&logoColor=white&labelColor=0B0F17"></a>
+</p>
+
+<br>
+
+I'm a **Lecturer in Computer Science & Engineering at [Shahjalal University of Science and Technology](https://www.sust.edu/)**, Sylhet.
+
+My research sits at one question: **what happens when LLM systems are attacked — or quietly start working against us?** I study covert collusion between AI agents, backdoors that survive fine-tuning, and detectors that catch them without drowning in false alarms.
+
+Before academia I shipped autonomous LLM agents to production. Before that, years of ICPC. Both taught me the same thing: if you can't measure it, it doesn't work.
+
+<br>
+
+## ◆ Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Secret Collusion Detection in Multi-Agent LLM Systems**<br>
+<sub>M.Sc. thesis · ongoing</sub>
+
+An online, coalition-agnostic sequential detector for covert collusion among LLM agents — activation probes, subset inference and CUSUM / SPRT risk aggregation, evaluated at strict false-positive operating points on an extended NARCBENCH.
+
+`multi-agent safety` `activation probes` `sequential testing`
+
+</td>
+<td width="50%" valign="top">
+
+**Backdoor Persistence under Resource-Constrained Fine-Tuning**<br>
+<sub>Co-Investigator · SUST Research Grant AS/2026/2/005</sub>
+
+Do backdoors planted in open-weight LLMs (Llama-3-8B, Qwen2.5-7B, Gemma-2-9B) survive end-user LoRA, QLoRA and adapter tuning? Localizing them with activation patching and linear probes; benchmarking low-budget defences (BEEAR, SANDE, fine-pruning) on consumer GPUs.
+
+`backdoors` `PEFT` `mechanistic interpretability`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Code-Mixed Bangla Hate Speech**<br>
+<sub>Dataset + benchmark</sub>
+
+188K code-mixed instances (81.3% F1, BanglaBERT), extended with 316K pure-Bangla instances (82.0% accuracy).
+
+`low-resource NLP` `datasets`
+
+</td>
+<td width="50%" valign="top">
+
+**ECG-Based Mortality Prediction**<br>
+<sub>Deep learning for health</sub>
+
+Neural Temporal Point Process modelling patient risk as a time-varying distribution from longitudinal ECG + clinical features — C-index 0.75, beating classical survival models.
+
+`temporal point processes` `survival analysis`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## ◆ Before academia
+
+**Software Engineer · Gathergov** <sub>Jun 2025 – Jul 2026</sub>
+
+- Built two production **autonomous LLM agents** (ReAct-style tool calling) for government-data collection across **500+ websites**.
+- **Scraper Agent** plans, writes, debugs and validates its own scrapers — per-site work went from **1–4 dev-hours to a ~10-minute unattended run**.
+- **Link Collection Agent** on Airflow (48 concurrent tasks) compressed **~190 analyst-hours into a single 1–4 h run**.
+- Migrated agents from Gemini 3 Pro to gpt-oss-120b on AWS Bedrock for a **~93% LLM cost cut** at equal task performance — with hard budget caps, iteration limits and LangSmith tracing.
+
+<br>
+
+## ◆ Competitive programming
+
+| ICPC | Codeforces | Solved | Hacker Cup |
+| :---: | :---: | :---: | :---: |
+| **Asia West Continent Finalist** · 2023 | **Expert** · max 1815 | **2,500+** problems | **#749** · 2024 |
+
+Now on the other side of the problem statement — setter, judge and coordinator for **BUET IUPC 2026**, the **National High School Programming Contest 2026** (central coordinator), CUET, MU and SIU IUPCs, and coordinator of the **SUST Competitive Programming Training Camp**.
+
+<br>
+
+## ◆ Toolbox
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,cpp,c,django,postgres,docker,aws,linux,git,latex&theme=dark&perline=11">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,cpp,c,django,postgres,docker,aws,linux,git,latex&theme=light&perline=11">
+  <img alt="Python, PyTorch, C++, C, Django, PostgreSQL, Docker, AWS, Linux, Git, LaTeX" src="https://skillicons.dev/icons?i=py,pytorch,cpp,c,django,postgres,docker,aws,linux,git,latex&theme=dark&perline=11">
+</picture>
+
+`LangChain` `LangSmith` `Hugging Face` `LoRA / QLoRA` `Playwright` `Airflow` `Kafka`
+
+<br>
+
+---
+
+<p align="center">
+  <sub>Interested in AI security research at SUST? My inbox is open — <a href="mailto:mainul3195@gmail.com">mainul3195@gmail.com</a></sub>
+</p>
