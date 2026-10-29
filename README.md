@@ -15,9 +15,9 @@
 
 I'm a **Lecturer in Computer Science & Engineering at [Shahjalal University of Science and Technology](https://www.sust.edu/)**, Sylhet.
 
-My research sits at one question: **what happens when LLM systems are attacked — or quietly start working against us?** I study covert collusion between AI agents, backdoors that survive fine-tuning, and detectors that catch them without drowning in false alarms.
-
-Before academia I shipped autonomous LLM agents to production. Before that, years of ICPC. Both taught me the same thing: if you can't measure it, it doesn't work.
+- **Researcher.** I work on AI security: covert collusion between LLM agents, backdoors that survive fine-tuning, and detectors that catch them without drowning in false alarms.
+- **Engineer.** At GatherGov I built autonomous LLM agents that run in production. They replaced hours of manual engineering and analyst work.
+- **Problem solver.** Years of ICPC, 2,500+ solved problems and an Asia West Continent Final taught me to pick up unfamiliar things fast and ship solutions that are correct, not just plausible.
 
 <br>
 
@@ -74,12 +74,12 @@ Neural Temporal Point Process modelling patient risk as a time-varying distribut
 
 ## ◆ Before academia
 
-**Software Engineer · Gathergov** <sub>Jun 2025 – Jul 2026</sub>
+**Software Engineer · [GatherGov](https://www.linkedin.com/company/gathergov/)** <sub>Jun 2025 – Jul 2026</sub><br>
+<sub>VC-backed US startup that indexes local-government meetings nationwide for real-estate and capital-markets teams.</sub>
 
-- Built two production **autonomous LLM agents** (ReAct-style tool calling) for government-data collection across **500+ websites**.
-- **Scraper Agent** plans, writes, debugs and validates its own scrapers — per-site work went from **1–4 dev-hours to a ~10-minute unattended run**.
-- **Link Collection Agent** on Airflow (48 concurrent tasks) compressed **~190 analyst-hours into a single 1–4 h run**.
-- Migrated agents from Gemini 3 Pro to gpt-oss-120b on AWS Bedrock for a **~93% LLM cost cut** at equal task performance — with hard budget caps, iteration limits and LangSmith tracing.
+- Built two production **autonomous LLM agents** that replaced manual engineering and analyst workflows for government-data collection across **500+ websites**.
+- **Scraper Agent** plans, writes, debugs and validates its own scrapers. Per-site work went from **1–4 dev-hours to a ~10-minute unattended run**.
+- **Link Collection Agent** on Airflow (48 concurrent tasks) compressed **~190 analyst-hours into a single run**.
 
 <br>
 
