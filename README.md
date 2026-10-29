@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Mainul Hasan Mohsin — Lecturer, CSE, SUST · AI Security Research" src="./assets/header-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-v2-light.svg">
+  <img alt="Mainul Hasan Mohsin — Lecturer, CSE, SUST · AI Security Research" src="./assets/header-v2-dark.svg" width="100%">
 </picture>
 
 <p align="center">
